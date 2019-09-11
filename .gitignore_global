@@ -9,3 +9,7 @@
 
 # Java
 *.class
+
+# Visual Studio
+/bin
+/obj
