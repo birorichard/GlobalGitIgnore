@@ -13,3 +13,8 @@
 # Visual Studio
 /bin
 /obj
+
+# Temp folders
+./Temp
+./temp
+./tmp
